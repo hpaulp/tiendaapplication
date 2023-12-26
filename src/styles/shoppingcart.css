@@ -1,0 +1,11 @@
+.cart-container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+  }
+  
+  .cart-count {
+    background-color: rgb(75, 75, 168);
+    border-radius: 10px;
+    padding: 8px;
+  }
